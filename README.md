@@ -13,11 +13,11 @@
 │ ├─ Autonomous Navigation with Collision Avoidance using ROS
 │ └─ Idea Repository API: Full-stack Web Application implementing C.R.U.D.
 └─💡 Other  
-   ├─ SAE Autodrive Challenge: Participating in the Vehicle Control and testing sub-team under working on Q23-24 cycle learning through training and workshops on topics like Machine Vision, ROS2 and MATLAB GUI’s       ├─ Undergraduate Teaching Assistant for the course Digital Logic Design (ECE2003), VIT Vellore (2019-2021)
-   ├─ Secured Silver Rank in IoT - Domain Specialist conforming to National Skills Qualifications Framework Level 8, 2021
-   ├─ Assistant Web Developer at IEEE IAS, VIT Vellore, 2020
-   ├─ Core Committee Member, IEEE - Circuits and Systems Society, 2019-2020
-   ├─ Core Committee Member, IEEE Computer Society, 2019-2022 
+│ ├─ SAE Autodrive Challenge: Participating in the Vehicle Control and testing sub-team under working on Q23-24 cycle learning through training and workshops on topics like Machine Vision, ROS2 and MATLAB GUI’s     │ ├─ Undergraduate Teaching Assistant for the course Digital Logic Design (ECE2003), VIT Vellore (2019-2021)
+│ ├─ Secured Silver Rank in IoT - Domain Specialist conforming to National Skills Qualifications Framework Level 8, 2021
+│ ├─ Assistant Web Developer at IEEE IAS, VIT Vellore, 2020
+│ ├─ Core Committee Member, IEEE - Circuits and Systems Society, 2019-2020
+│ ├─ Core Committee Member, IEEE Computer Society, 2019-2022 
 
 📫 Contact:   
 ├─ [LinkedIn](https://www.linkedin.com/in/nishant-kumar-bharali/)   
