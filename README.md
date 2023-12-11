@@ -22,7 +22,7 @@
 │ ├─ Core Committee Member, IEEE Computer Society, 2019-2022 
 
 📫 <b>Contact</b>:   
-├─ [LinkedIn](https://www.linkedin.com/in/nishant-kumar-bharali/)   
-└─ [Facebook](https://www.facebook.com/profile.php?id=61550884612561)   
+├─ <a href="https://www.linkedin.com/in/nishant-kumar-bharali/">LinkedIn</a>  
+└─ <a href="https://www.facebook.com/profile.php?id=61550884612561">Facebook</a>   
 
 </pre>
