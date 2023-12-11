@@ -21,7 +21,7 @@
 │ ├─ Core Committee Member, IEEE - Circuits and Systems Society, 2019-2020
 │ ├─ Core Committee Member, IEEE Computer Society, 2019-2022 
 
-📫 Contact:   
+📫 <b>Contact</b>:   
 ├─ [LinkedIn](https://www.linkedin.com/in/nishant-kumar-bharali/)   
 └─ [Facebook](https://www.facebook.com/profile.php?id=61550884612561)   
 
