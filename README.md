@@ -13,7 +13,7 @@
 │ ├─ <a href="https://nishantbharali.github.io/Blog/">Personal Blog</a> - Data science, Robotics, Controls blog  
 │ ├─ <a href="https://github.com/NishantBharali/Forest-Fire-Smoke-Detection-Using-Computer-Vision-and-Deep-Learning">Forest Fire Smoke Detection</a> Using Deep-Learning Fast RCNN inception v2 & SSD Mobilenet v2
 │ ├─ <a href="https://drive.google.com/file/d/1D0Mfpe8zFq1wjk3hQN1IYfh2tzWJSP8p/view">Autonomous Navigation with Collision Avoidance using ROS</a>
-│ └─ <a href="https://github.com/NishantBharali/Oralce-Cerner-API">Idea Repository API</a>: Full-stack Web Application implementing C.R.U.D.
+│ └─ <a href="https://github.com/NishantBharali/Oralce-Cerner-API">Idea Repository API</a>: Full-stack Web Application implementing C.R.U.D. and implementing CI/CD using pipeline automation upon Jenkins
 └─💡 <b>Other</b>
 │ ├─ SAE Autodrive Challenge: Participating in the Vehicle Control and testing sub-team under working on Q23-24 cycle learning through training and workshops on topics like Machine Vision, ROS2 and MATLAB GUI’s   │ ├─ Undergraduate Teaching Assistant for the course Digital Logic Design (ECE2003), VIT Vellore (2019-2021)
 │ ├─ Silver Rank in IoT - Domain Specialist conforming to National Skills Qualifications Framework Level 8, 2021
