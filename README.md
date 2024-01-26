@@ -3,8 +3,8 @@
 💡 <b>Nishant Kumar Bharali</b> 
 ├─🚀 <b>Professional Overview</b> 
 │ ├─💼 <b>Career</b>
-│ │ ├─ <a href="https://www.cerner.com/">Oracle Cerner</a> / Software Engineering Intern 
 │ │ ├─ <a href="https://www.mahindra.com/">Mahindra and Mahindra</a> / Product Development Engineer
+│ │ ├─ <a href="https://www.cerner.com/">Oracle Cerner</a> / Software Engineering Intern
 │ │ └─ <a href="https://www.maven-silicon.com/">Maven Silicon</a> / VLSI Design Intern 
 │ └─📚 <b>Education</b>  
 │   ├─ <a href="https://www.vt.edu/">Virginia Tech</a> / MSc Computer Engineering 
