@@ -11,8 +11,8 @@
 │   └─ <a href="https://vit.ac.in/">Vellore Institute of Technology</a> / BTech Electronics and Communication Engineering
 ├─📦 <b>Projects</b>  
 │ ├─ <a href="https://www.nishantkb.info/">Portfolio</a> - Vehicle Sotware Electronics, Robotics, Applied Controls, Systems Engineering, Data science
-│ ├─ <a href="https://github.com/NishantBharali/Robot-Modeling-Research-Project">Robot-Modeling-Research-Project</a> - Robot simulations - kinematics, dynamics, control, RRT algorithm and trajectory optimization
-│ ├─ <a href="https://github.com/NishantBharali/Forest-Fire-Smoke-Detection-Using-Computer-Vision-and-Deep-Learning">Forest Fire Smoke Detection</a> Using Deep-Learning Fast RCNN inception v2 & SSD Mobilenet v2
+│ ├─ <a href="https://github.com/NishantBharali/Robot-Modeling-Research-Project">RobotbModeling Research</a> - Robot simulations - kinematics, dynamics, control, RRT algorithm and trajectory optimization
+│ ├─ <a href="https://github.com/NishantBharali/Forest-Fire-Smoke-Detection-Using-Computer-Vision-and-Deep-Learning">Forest Fire/Smoke Detection</a> Using Deep-Learning Fast RCNN inception v2 & SSD Mobilenet v2
 │ ├─ <a href="https://github.com/NishantBharali/Oralce-Cerner-API">Idea Repository API</a>: Full-stack Web Application implementing C.R.U.D. and implementing CI/CD using pipeline automation upon Jenkins 
 │ └─ <a href="https://drive.google.com/file/d/1D0Mfpe8zFq1wjk3hQN1IYfh2tzWJSP8p/view">Autonomous Navigation with Collision Avoidance using ROS</a>
 ├─💡 <b>Other</b>
