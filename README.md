@@ -8,7 +8,7 @@
 │ │ └─ <a href="https://www.maven-silicon.com/">Maven Silicon</a> / VLSI Design Intern 
 │ └─📚 <b>Education</b>  
 │   ├─ <a href="https://www.vt.edu/">Virginia Tech</a> / MSc Computer Engineering 
-│   └─ <a href="https://vit.ac.in/">Vellore Institute of Technology</a> / BTech Electronics and Communication Engineering
+│   └─ <a href="https://vit.ac.in/">Vellore Institute of Technology</a> / B.Tech Electronics and Communication Engineering
 ├─📦 <b>Projects</b>  
 │ ├─ <a href="https://www.nishantkb.info/">Portfolio</a> - Vehicle Sotware Electronics, Robotics, Applied Controls, Systems Engineering, Data science
 │ ├─ <a href="https://github.com/NishantBharali/Robot-Modeling-Research-Project">RobotbModeling Research</a> - Robot simulations - kinematics, dynamics, control, RRT algorithm and trajectory optimization
