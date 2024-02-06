@@ -11,7 +11,7 @@
 │   └─ <a href="https://vit.ac.in/">Vellore Institute of Technology</a> / B.Tech Electronics and Communication Engineering
 ├─📦 <b>Projects</b>  
 │ ├─ <a href="https://github.com/NishantBharali/Full-State-Feedback-Control-Design-Using-Optimal-LQR-Control">Full-State Feedback Control Design using Optimal LQR Control: (Drone Stabilization Simulation)</a>  
-│ ├─ <a href="https://github.com/NishantBharali/Simulation-based-Robot-Modeling-and-Control">Robot-Modeling Research</a> / Redundant Robot simulation - kinematics, dynamics, control, RRT algorithm and trajectory optimization
+│ ├─ <a href="https://github.com/NishantBharali/Simulation-based-Robot-Modeling-and-Control">Simulation-based Robot Modeling, Path Planning and Control Research</a> / Redundant Robot simulation - kinematics, dynamics, control, RRT algorithm and trajectory optimization
 │ ├─ <a href="https://github.com/NishantBharali/Forest-Fire-Smoke-Detection-Using-Vision-and-Deep-Learning-Models">Forest Fire/Smoke Detection</a> - <a href="https://sites.google.com/vt.edu/nishantkb-cv-project/home">[Report and Results]</a> / Comparative analysis of smoke detection using Deep-Learning Fast RCNN inception v2 & SSD Mobilenet v2 with efficient results
 │ ├─ <a href="https://github.com/NishantBharali/Oralce-Cerner-API">Idea Repository API</a> / Full-stack web application implementing C.R.U.D. using Spring MVC and React-Redux and CI/CD using pipeline automation upon Jenkins with near 92% unit test using Mockito and Jest-Enzyme
 │ ├─ <a href="https://www.nishantkb.info/">Portfolio</a> / Includes work details, analytical projects including topics: Vehicle Sotware Electronics, Robotics, Applied Controls, Systems Engineering, Data science  
