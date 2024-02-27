@@ -10,7 +10,7 @@
 │   ├─ <a href="https://www.vt.edu/">Virginia Tech</a> / MSc Computer Engineering 
 │   └─ <a href="https://vit.ac.in/">Vellore Institute of Technology</a> / B.Tech Electronics and Communication Engineering
 ├─📦 <b>Projects</b>  
-│ ├─ <a href="https://github.com/NishantBharali/Full-State-Feedback-Control-Design-Using-Optimal-LQR-Control">Full-State Feedback Control Design using Optimal LQR Control: (Drone Stabilization Simulation)</a>
+│ ├─ <a href="https://github.com/NishantBharali/Controller-design-for-a-MIMO-system">Controller design for a MIMO system using LQR optimization: (Drone Stabilization Simulation)</a>
 │ ├─ <a href="https://github.com/NishantBharali/Linearized-LTI-Modeling-and-Feedback-Control-of-a-2D-Drone-Delivery-Prototype">Linearized LTI Modeling and Feedback Control of a 2D Drone Delivery Prototype</a>   
 │ ├─ <a href="https://github.com/NishantBharali/Simulation-based-Robot-Modeling-and-Control">Simulation-based Robot Modeling, Path Planning and Control Research</a> / Redundant Robot simulation modeling - kinematics, dynamics, control, RRT algorithm and trajectory optimization using potential fields
 │ ├─ <a href="https://github.com/NishantBharali/Forest-Fire-Smoke-Detection-Using-Vision-and-Deep-Learning-Models">Forest Fire/Smoke Detection</a> - <a href="https://sites.google.com/vt.edu/nishantkb-cv-project/home">[Report and Results]</a> / Comparative analysis of smoke detection using Deep-Learning Fast RCNN inception v2 & SSD Mobilenet v2 with efficient results
