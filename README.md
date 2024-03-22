@@ -15,8 +15,7 @@
 │ ├─ <a href="https://github.com/NishantBharali/Control-Design-of-a-Quadcopter">Control Design - Quadcopter simulation using a PD controller</a>
 │ ├─ <a href="https://github.com/NishantBharali/Simulation-based-Robot-Modeling-and-Control">Simulation-based Robot Modeling, Path Planning and Control Research</a> / Redundant Robot simulation modeling - kinematics, dynamics, control, RRT algorithm and trajectory optimization using potential fields
 │ ├─ <a href="https://github.com/NishantBharali/Forest-Fire-Smoke-Detection-Using-Vision-and-Deep-Learning-Models">Forest Fire/Smoke Detection</a> - <a href="https://sites.google.com/vt.edu/nishantkb-cv-project/home">[Report and Results]</a> / Comparative analysis of smoke detection using Deep-Learning Fast RCNN inception v2 & SSD Mobilenet v2 with efficient results
-│ ├─ <a href="https://github.com/NishantBharali/Oralce-Cerner-API">Idea Repository API</a> / Full-stack web application implementing C.R.U.D. using Spring MVC and React-Redux and CI/CD using pipeline automation upon Jenkins with near 92% unit test using Mockito and Jest-Enzyme
-│ ├─ <a href="https://www.nishantkb.info/">Portfolio</a> / Includes work details, analytical projects including topics: Vehicle Sotware Electronics, Robotics, Applied Controls, Systems Engineering, Data science  
+│ ├─ <a href="https://github.com/NishantBharali/Oralce-Cerner-API">Idea Repository API</a> / Full-stack web application implementing C.R.U.D. using Spring MVC and React-Redux and CI/CD using pipeline automation upon Jenkins with near 92% unit test using Mockito and Jest-Enzyme     
 │ └─ <a href="https://drive.google.com/file/d/1D0Mfpe8zFq1wjk3hQN1IYfh2tzWJSP8p/view">Autonomous Navigation with Collision Avoidance using ROS</a>
 ├─💡 <b>Other</b>
 │ ├─ SAE Autodrive Challenge / Participated in the Vehicle Control and testing sub-team under working on Q21-22 cycle learning through training and workshops on topics like Machine Vision, ROS2 and MATLAB GUIs  
@@ -28,6 +27,7 @@
 
 📫 <b>Contact</b>:   
 ├─ <a href="https://www.linkedin.com/in/nishant-kumar-bharali/">LinkedIn</a>  
+├─ <a href="https://www.nishantkb.info/">Portfolio</a> 
 └─ <a href="https://www.facebook.com/profile.php?id=61550884612561">Facebook</a>   
 
 </pre>
