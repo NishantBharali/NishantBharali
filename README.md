@@ -11,7 +11,7 @@
 │   └─ <a href="https://vit.ac.in/">Vellore Institute of Technology</a> / B.Tech Electronics & Communication Engineering
 ├─📦 <b>Projects</b>  
 │ ├─ <a href="https://github.com/NishantBharali/Controller-design-for-a-MIMO-system">Controller design for a MIMO system using LQR optimization: (Drone Stabilization Simulation)</a>
-│ ├─ <a href="https://github.com/NishantBharali/Simulation-based-Robot-Modeling-and-Control">Simulation-based Robot Modeling, Path Planning and Control Research</a> / Redundant Robot simulation modeling - kinematics, dynamics, control, RRT algorithm and trajectory optimization using potential fields
+│ ├─ <a href="https://github.com/NishantBharali/Simulation-based-Robot-Modeling-and-Control">Simulation-based Robot Modeling</a> / Redundant Robot simulation modeling - kinematics, dynamics, control, RRT algorithm and trajectory optimization
 │ ├─ <a href="https://github.com/NishantBharali/Oralce-Cerner-API">Idea Repository API</a> / Full-stack web application implementing C.R.U.D. using Spring MVC and React-Redux and CI/CD using pipeline automation upon Jenkins with near 92% unit test using Mockito and Jest-Enzyme     
 ├─💡 <b>Other</b>
 │ ├─ Certified Siemens Advanced Automation: PLC
